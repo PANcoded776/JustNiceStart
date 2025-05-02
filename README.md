@@ -38,4 +38,4 @@ commands:
 *Notice: For now the description and commands inside the plugin are on german sry. I´m going to update this to english.*
 
 
-If you have any issues pls report it to me :)
+If you have any issues pls report them to me :)
