@@ -12,7 +12,13 @@ Is a simple minecraft plugin for 1.21.4 (should work with 1.21.5 ig.).
 -------------------------------------------------------------
 
 ### Standart config.yml
-` 
+``` 
+#        __             __    _  __   _              ____  __               __
+#    __ / / __ __  ___ / /_  / |/ /  (_) ____ ___   / __/ / /_ ___ _  ____ / /_
+#   / // / / // / (_-</ __/ /    /  / / / __// -_) _\ \  / __// _ `/ / __// __/
+#   \___/  \_,_/ /___/\__/ /_/|_/  /_/  \__/ \__/ /___/  \__/ \_,_/ /_/   \__/
+#
+
 version: 3.2
 description: Ein Plugin, das einen Timer mit Effekten und Befehlen startet.
 
@@ -25,7 +31,7 @@ runCustomCommandOnFinish: false
 
 commands:
   - title @a title {"text":"Los geht’s!","color":"gold","bold":true}
- `
+ ```
 
 -------------------------------------------------------------
 
