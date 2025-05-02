@@ -1,5 +1,5 @@
 # JustNiceStart
-Is a simple minecraft plugin for 1.21.4 (should work with 1.21.5 ig.).
+Is a simple minecraft plugin.
 
 -------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Is a simple minecraft plugin for 1.21.4 (should work with 1.21.5 ig.).
 #   \___/  \_,_/ /___/\__/ /_/|_/  /_/  \__/ \__/ /___/  \__/ \_,_/ /_/   \__/
 #
 
-version: 3.2
+version: X.X
 description: Ein Plugin, das einen Timer mit Effekten und Befehlen startet.
 
 #Setze auf true wenn die commands ausgeführt werden sollen.
