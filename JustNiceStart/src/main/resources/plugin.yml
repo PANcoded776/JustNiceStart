@@ -1,0 +1,18 @@
+name: JustNiceStart
+version: '4.0'
+main: me.powerpfannkuchen.justNiceStart.Main
+api-version: '1.21'
+authors: [ PowerPfannkuchen ]
+description: A Plugin that adds just a nice start to your server.
+commands:
+  start:
+    description: Startet einen Bossbar-Countdown
+    usage: /start [sekunden]
+
+  cancel:
+    description: Stoppt den aktuellen Countdown
+    usage: /cancel
+
+  jnsreload:
+    description: Lädt die JustNiceStart-Konfiguration neu
+    usage: /jnsreload
